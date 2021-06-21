@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+/*======================
+	 calculator sec
+======================*/
+
+.calc-sec {
+	height: 100vh;
+	background-color: #fb9300;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.calc-table {
+    display: table;
+    height: 100vh;
+    width: 100%;
+}
+
+.calc-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.calc-content {
+    width: 55%;
+    margin: 0 auto;
+    background-color: #343f56;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.calc-display input {
+    width: 100%;
+    height: 50px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+	padding: 0px 10px;
+}
+
+input.c-btn {
+    width: 60px;
+    height: 50px;
+    margin: 10px 10px;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
